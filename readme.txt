@@ -1,1 +1,0 @@
-This tool is for educational purposes only. Use responsibly and only in environments you have permission to test.
